@@ -2,6 +2,8 @@
 A high-fidelity simulation of the sanctimonious hypocrite.
 
 # Instructions
+In a terminal, do the following:
+
 `git clone https://github.com/boblsturm/Sanctimonious_Hypocrite.git`
 
 `cd Sanctimonious_Hypocrite`
