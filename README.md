@@ -3,6 +3,7 @@ A high-fidelity simulation of the sanctimonious hypocrite.
 
 # Instructions
 `git clone https://github.com/boblsturm/Sanctimonious_Hypocrite.git`
+
   Cloning into 'Sanctimonious_Hypocrite'...
   remote: Enumerating objects: 10, done.
   remote: Counting objects: 100% (10/10), done.
