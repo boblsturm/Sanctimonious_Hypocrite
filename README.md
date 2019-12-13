@@ -5,6 +5,7 @@ A high-fidelity simulation of the sanctimonious hypocrite.
 `git clone https://github.com/boblsturm/Sanctimonious_Hypocrite.git`
 
 `cd Sanctimonious_Hypocrite`
+
 `./sanctimonious_hypocrite.sh Trump`
 
   Romans 13: Let everyone be subject to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God yada yada ...
