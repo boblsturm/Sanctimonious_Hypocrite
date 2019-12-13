@@ -14,4 +14,4 @@ In a terminal, do the following:
   
 `./sanctimonious_hypocrite.sh Obama`
 
-  Revelations 13: Elected official Obama is clearly the Devil!
+  Revelations 13: Obama is clearly the Devil!
